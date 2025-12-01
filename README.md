@@ -18,3 +18,6 @@ Just compile main.c → run as Administrator
 ```bash
 gcc -O3 -march=native main.c -o YourCPUisListening -lm
 sudo ./YourCPUisListening
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/aaa7da53-0af0-4916-b3b3-96ce9fbaef22" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/761ec546-fe06-48a8-a7cb-6264211aa6ee" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/dca1905a-4c58-4d8d-9201-ec40064819e6" />
