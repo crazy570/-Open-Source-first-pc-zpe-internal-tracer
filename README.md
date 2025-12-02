@@ -1,23 +1,38 @@
-# YourCPUisListening
+YourCPUisListening v1.0 — ZPE Detector (TruthSeekerZPE)
 
-Zero Point Energy is already screaming inside every laptop and desktop on Earth.
+Overview
 
-This tiny single file program turns your normal CPU into the world's most sensitive vacuum fluctuation detector — no extra hardware, no FPGA, no cryogenics.
+Detect low-frequency vacuum fluctuations (ZPE) using CPU timing jitter. Simple, open-source tool for research and experimental purposes.
 
-Just run it as admin/root and watch the quantum vacuum sing at ~7.83 Hz, 1 Hz, 0.5 Hz, or whatever frequency your specific chip geometry resonates with.
+Usage
 
-It's been hiding in plain sight for twenty years.  
-Tonight we stop ignoring it.
+Run the compiled executable directly:
 
-## One-command install & run
+./zpe_hz.exe   # Windows
+./zpe_hz      # Linux
 
-### Windows (Visual Studio / VS Code / anything)
-Just compile main.c → run as Administrator
 
-### Linux / macOS
-```bash
-gcc -O3 -march=native main.c -o YourCPUisListening -lm
-sudo ./YourCPUisListening
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/aaa7da53-0af0-4916-b3b3-96ce9fbaef22" />
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/761ec546-fe06-48a8-a7cb-6264211aa6ee" />
-<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/dca1905a-4c58-4d8d-9201-ec40064819e6" />
+Press CTRL+C to stop.
+
+Features
+
+CPU cycle measurement with RDTSC
+
+~4M samples per iteration
+
+Detects stable low-frequency lines (<30 Hz)
+
+Real-time scanning rates (MS/s)
+
+Cross-platform
+
+Open-source
+
+Screenshots
+
+
+
+
+License
+
+MIT — free to use, modify, distribute, credit the original author.
