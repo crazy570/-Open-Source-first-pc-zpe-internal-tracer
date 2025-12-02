@@ -28,11 +28,12 @@ Cross-platform
 
 Open-source
 
-Screenshots
-
-
-
 
 License
 
 MIT — free to use, modify, distribute, credit the original author.
+
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/cc80448a-4e1d-43e4-90de-a621740f3a02" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/00ce6e80-3ac0-4aaa-9c59-603bef8fbcc0" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/07afd59c-42d0-470a-927d-5062220ddb6c" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/3caa3527-0500-4327-853e-42f25c7fb0e1" />
